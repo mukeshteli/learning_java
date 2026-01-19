@@ -16,6 +16,7 @@ class Human{
     public String getName(){
         return name;
     }
+    
 }
 public class encapsulation {
     public static void main(String args[]){
