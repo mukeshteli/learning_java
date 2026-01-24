@@ -6,9 +6,9 @@ final class calculator {
 
 class AdvancedCalculator extends calculator {
     // This will cause a compilation error because calculator is final
-    public int multiply(int a, int b) {
-        return a * b;
-    }
+   // public int multiply(int a, int b) {
+     //   return a * b;
+    //}
 }
 public class Final {
     public static void main(String[] args) {
